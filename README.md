@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-#339933?style=for-the-badge&logo=node.js&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/apachehive-#FDEE21?style=for-the-badge&logo=apachehive&logoColor=white">
+<img src="https://img.shields.io/badge/apachehive-#FDEE21=style=for-the-badge&logo=apachehive&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
 <img src="https://img.shields.io/badge/apachespark-#E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
