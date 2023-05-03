@@ -31,11 +31,16 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
 <img src="https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/apachehive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=white">
-
+<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Kears-D00000?style=for-the-badge&logo=Kears&logoColor=white">
+
+<br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-2496ED?style=for-the-badge&logo=MySQL&logoColor=white"></br>
+
+
 
 <h3>📚 My Page 📚</h3>
 <a href="https://github.com/kshiny"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/kshiny">
