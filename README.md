@@ -21,9 +21,9 @@
 <img src="https://img.shields.io/badge/node.js-#339933?style=for-the-badge&logo=node.js&logoColor=white">
 
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white">
-
+<br>
 <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white">
-<img src="https://img.shields.io/badge/apachehive-#FDEE21?style=for-the-badge&logo=apachehive&logoColor=white">
+<img src="https://img.shields.io/badge/apachehive-##FDEE21?style=for-the-badge&logo=apachehive&logoColor=white">
 
 
 <br><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
