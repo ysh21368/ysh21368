@@ -24,10 +24,10 @@
 <br>
 
 <br>
-<br><img src="https://img.shields.io/badge/apachehive-#FDEE21?style=for-the-badge&logo=apachehive&logoColor=white">
-<br><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
-<br><img src="https://img.shields.io/badge/apachespark-#E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-<br><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
+<br><img src="https://img.shields.io/badge/apachehive-#FDEE21?style=for-the-badge&logo=apachehive&logoColor=white">   
+<br><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">    
+<br><img src="https://img.shields.io/badge/apachespark-#E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">   
+<br><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">  
 
 <br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
