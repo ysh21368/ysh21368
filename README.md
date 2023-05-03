@@ -19,17 +19,14 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white">
 
-<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/nodejs-#339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-#339933?style=for-the-badge&logo=node.js&logoColor=white">
 
-<br>
 <img src="https://img.shields.io/badge/apachehive-#FDEE21=style=for-the-badge&logo=apachehive&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
 <img src="https://img.shields.io/badge/apachespark-#E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
 
-<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/tensorflow-#FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
