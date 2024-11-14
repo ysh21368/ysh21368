@@ -19,5 +19,5 @@ API 및 Docker 기반 모델 서빙 모듈, 이미지·세그멘테이션 모델
 
 ## 📬 연락처
 - **이메일**: ysh2136800@gmail.com
-- **블로그**: [AI와 함께하는 여정]([https://velog.io/@ysh21368](https://velog.io/@ysh21368/posts))
-- **LinkedIn**: [YOOn Seung Hyun]([https://www.linkedin.com/in/ysh21368/](https://www.linkedin.com/in/%EC%8A%B9%ED%98%84-%EC%9C%A4-72a593255/))
+- **블로그**: [[AI와 함께하는 여정]([https://velog.io/@ysh21368](https://velog.io/@ysh21368/posts))](https://velog.io/@ysh21368/posts)
+- **LinkedIn**: [[Yoon Seung Hyun]([https://www.linkedin.com/in/ysh21368/](https://www.linkedin.com/in/%EC%8A%B9%ED%98%84-%EC%9C%A4-72a593255/))](https://www.linkedin.com/in/%EC%8A%B9%ED%98%84-%EC%9C%A4-72a593255/)
