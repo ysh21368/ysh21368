@@ -1,46 +1,13 @@
+# 👋 안녕하세요! 저는 AI Engineer 윤승현입니다.
 
- <div align=center><h1>안녕하세요, 승현 GitHub로 오신것을 환영합니다. 👋</h1>
+데이터 사이언스와 인공지능을 통해 혁신을 만들어가는 AI 엔지니어입니다. 대화형 챗봇, 이미지 인식, 데이터 분석 등의 프로젝트를 통해 경험을 쌓았으며, 현재 데이터 기반 의사결정을 위한 인사이트를 창출하는 것에 주력하고 있습니다. 다양한 AI 기술을 통해 실제 문제 해결에 기여하고자 합니다. 😊
 
- <h5>This is my Github page.
- <br>I am interested in Data Science, Deep Learning and Machie Learning.<br/></h5>
- 
- <h3>😼 My Github Stats 😼</h3>
-  
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysh21368&show_icons=true&theme=cobalt)
-  
+## 🔍 주요 프로젝트
+- **[Bitcoin Automated Trading Bot](https://github.com/ysh21368/bitcoin-trading-bot)**  
+  뉴스 기반의 AI 자동 거래 봇으로 비트코인의 변동성을 예측하여 자동으로 거래를 수행합니다. Python과 Upbit API, OpenAI API를 활용하였습니다.
 
-<h3>🛠️ My Stack 🛠️</h3>
-<h4>Techs that I've used at least once.</h4>
+- **[Used Phone Price Prediction Service](https://github.com/ysh21368/used-phone-prediction)**  
+  중고폰 시세 예측 서비스로, 플랫폼 데이터를 기반으로 공정한 가격 시스템을 구축했습니다. Python과 Random Forest를 사용해 예측 모델을 개발했습니다.
 
-
-
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
-<img src="https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-<img src="https://img.shields.io/badge/apachehive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Kears-D00000?style=for-the-badge&logo=Kears&logoColor=white">
-
-<br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-2496ED?style=for-the-badge&logo=MySQL&logoColor=white"></br>
-<br>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-F7DF1E?style=for-the-badge&logo=Node.js&logoColor=white">
-
-</div>
+- **[Standardizing Korean Menu Names AI](https://github.com/ysh21368/korean-menu-ai)**  
+  대한민국 메뉴명 표준화 AI 프로젝트입니다. KoBERT 모델을 사용하여 한국어 특징을 고려한 표준화 결과를 도출했습니다.
